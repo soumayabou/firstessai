@@ -15,7 +15,7 @@
     </Grid>
     <Page.BottomAppBar>
         <CommandBar>
-            <AppBarButton  Name="btnajouter" Icon="Add" Label="Ajouter"  />
+            <AppBarButton  Name="btnajouter" Icon="Add" Label="ajouter"  />
             <AppBarButton Name="btnretour" Icon="Home" Label="Retour"/>
         </CommandBar>
     </Page.BottomAppBar>
