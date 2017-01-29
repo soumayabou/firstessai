@@ -11,9 +11,7 @@
         <StackPanel>
             <Image Source="Images/imglogo" Height="200" Width="200" />
             <TextBox Name="txtnom" Margin="10" PlaceholderText="entrer nom"/>
-           
         </StackPanel>
-
     </Grid>
     <Page.BottomAppBar>
         <CommandBar>
